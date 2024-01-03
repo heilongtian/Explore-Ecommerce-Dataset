@@ -56,7 +56,7 @@ Result
 ![image](https://github.com/heilongtian/Explore-Ecommerce-Dataset/assets/126595334/624e6af4-bc7b-49c4-9b4c-5fa0c0b1dff8)
 
 
-**Question 5:Average number of transactions per user that made a purchase in July 2017**
+**Question 5: Average number of transactions per user that made a purchase in July 2017**
 
 ![image](https://github.com/heilongtian/Explore-Ecommerce-Dataset/assets/126595334/80acd1cd-f59c-46e9-8eff-3819c7d03998)
 
