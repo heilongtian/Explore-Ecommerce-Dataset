@@ -64,7 +64,7 @@ Result
 
 ![image](https://github.com/heilongtian/Explore-Ecommerce-Dataset/assets/126595334/e225d373-e2c2-4cf2-b464-76ac3f9adfd5)
 
-Question 6: Average amount of money spent per session. Only include purchaser data in July 2017
+****Question 6: Average amount of money spent per session. Only include purchaser data in July 2017**
 
 ![image](https://github.com/heilongtian/Explore-Ecommerce-Dataset/assets/126595334/142df038-8e75-4d9e-9e20-226639dff468)
 
